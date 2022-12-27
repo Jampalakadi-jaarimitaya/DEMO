@@ -1,2 +1,2 @@
-PYTHON FILE
+print "HERO"
 
