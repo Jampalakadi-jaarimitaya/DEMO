@@ -1,2 +1,2 @@
-print "HERO commit- a"
+print "HERO"
 
